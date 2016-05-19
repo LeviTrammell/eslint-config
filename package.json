@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "XO config of @LeviTrammell",
   "main": "index.json",
-  "repository": "LeviTrammell/eslint-config",
+  "repository": "LeviTrammell/eslint-config-levitrammell",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
